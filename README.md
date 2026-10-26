@@ -9,7 +9,7 @@ A simple 3D voxel game clone built in Godot 4, inspired by Minecraft.
 
 ## Tech Stack
 * Game Engine: Godot 4
-* Language: GDScript / C#
+* Language: GDScript 
 
 <img width="1920" height="1001" alt="1" src="https://github.com/user-attachments/assets/c05971a9-56db-4a25-9230-ce57d18ed247" />
 
